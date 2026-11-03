@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: box-shadow;
+}
+.container{
+    justify-content: center;
+    align-items: center;
+    margin-left: 40%;
+    margin-top: 150px;
+    height: 100vh;
+}
+#value{
+    margin-bottom: 30px;
+    margin-left: 80px;
+    font-size: 50px;
+}
+body{
+    background-color: rgb(97, 156, 182);
+}
+h1{
+    font-size: 30px;
+    color: blue;
+}
+button{
+    padding: 20px;
+    border-radius: 20px;
+    border: none;
+}

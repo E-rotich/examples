@@ -1,0 +1,25 @@
+
+.review{
+    border: 2px solid rgb(0, 0, 0);
+height: 320px;
+width: 36%;
+margin-left: 27%;
+margin-top: 10%;
+}
+.title{
+  margin-left: 35%;  
+}
+.button-container{
+    margin-left: 40%;
+}
+.random-btn{
+        margin-left: 35%;
+        margin-top: 20px;
+}
+#author{
+    margin-left: 38%;
+    padding-top: 40px;
+}
+#job{
+    margin-left: 38%;
+}

@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color:red;
+    width: 100%;
+
+}
+.card{
+    height:285px ;
+    width: auto;
+    border:2px solid black;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    
+}
+.grid{
+     display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+    
+}
+h1{
+    margin-left: 45%;
+}
+.me{
+    margin-left: 35%;
+}
+img{
+    border-radius: 200px;
+    height: 70px;
+    margin-left: 30%;
+}
